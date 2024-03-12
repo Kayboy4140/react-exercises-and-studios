@@ -7,9 +7,9 @@ export default function BookList() {
    return (
       <div>
          <h3>{pageTitle}</h3>
-         <img src={book1} alt="God never gives up on you" />
-         <img src={book2} alt="The power of knowing God" />
-         <img src={book3} alt="Understanding the purpose and power of Prayer" />
+         <img src={book1} width={200} height={300} alt="God never gives up on you" />
+         <img src={book2} width={200} height={300} alt="The power of knowing God" />
+         <img src={book3} width={200} height={300} alt="Understanding the purpose and power of Prayer" />
       </div>      
    );
 }
