@@ -13,6 +13,21 @@
        "heavy cream",
        "milk"
      ]
-   }
+   },
+
+   {
+    "name": "Crock Pot Roast",
+    "author": "Online Resource",
+    "website": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208",
+    "recipeImage": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+    "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+    "ingredients": [
+      "beef roast",
+      "brown gravy mix",
+      "dried Italian salad dressing mix",
+      "dry ranch dressing mix",
+      "water"
+    ]
+    }
  ]
  

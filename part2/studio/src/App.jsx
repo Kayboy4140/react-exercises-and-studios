@@ -9,8 +9,8 @@ import RecipeName from "./components/RecipeName";
 export default function App() {
   return (
     <>
-      <RecipeImage />
-      <RecipeName />
+      <RecipeImage /> 
+      <RecipeName /> 
       <RateARecipe rating={4} />
       <Button saveButton={true} />
       <AuthorInfo />

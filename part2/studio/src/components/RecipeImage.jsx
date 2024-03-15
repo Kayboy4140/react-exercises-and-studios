@@ -1,6 +1,13 @@
+import recipedata from "./recipe.json";
+
 function RecipeImage() {
-   return;
- }
+  const recipeImage = recipedata.map((recipe) => 
+    <img className="recipeImage" src={recipe.recipeImage} alt={recipe.name}></img>
+  )
+   return (
+    <div>{recipeImage}</div>
+  )
+}
  
  export default RecipeImage;
  
