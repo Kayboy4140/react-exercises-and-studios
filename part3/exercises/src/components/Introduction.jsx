@@ -1,11 +1,11 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Making Music</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>Music engulfs me totally.</li>
+            <li>I had stayed on the piano many years back rehearsing a music piece from morning to night.</li>
+            <li>I added music production into the number of things I can do.</li>
          </ol>
       </div>
    );
